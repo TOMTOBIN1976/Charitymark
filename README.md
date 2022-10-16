@@ -1,0 +1,2 @@
+# Charitymark
+Charity events application
